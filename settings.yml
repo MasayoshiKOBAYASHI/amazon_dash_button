@@ -1,0 +1,6 @@
+mac:
+  head: your_dash_button_mac_adress_head
+  sleep: your_dash_button_sleep_mac_adress
+  no_sleep: your_dash_button_no_sleep_mac_adress
+ifttt:
+  key: your_ifttt_key
