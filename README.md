@@ -1,7 +1,8 @@
 # Read Me
 
 このスクリプトは amazon dash button を押すとIFTTT連携する機能が搭載されています
-[サイト](https://qiita.com/noexpect/items/efcd5065830021905a60)を参考に作成しました
+
+この[サイト](https://qiita.com/noexpect/items/efcd5065830021905a60)を参考に作成しました
 
 ### python環境の準備
 
